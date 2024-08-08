@@ -6,6 +6,22 @@
       "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Iniciar Sesión"
     },
      {
+      "id": "Menu_Products",
+      "nav_url": "index.php?page=Products_Products",
+      "nav_label":"<i class=\"fas fa-table\"></i>&nbsp;WW Productos"
+    },
+    {
+      "id": "Menu_Vehiculos",
+      "nav_url": "index.php?page=Vehiculos_Vehiculos",
+      "nav_label": "<i class=\"fas fa-car\"></i>&nbsp;Vehículos"
+    },
+    {
+      "id": "Menu_Vehiculos",
+      "nav_url": "index.php?page=Vehiculos_Vehiculos",
+      "nav_label": "<i class=\"fas fa-car\"></i>&nbsp;Vehículos"
+    },
+
+    {
       "id": "Menu_SignUp",
       "nav_url": "index.php?page=Sec_Register",
       "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Crear Cuenta"
